@@ -1,3 +1,7 @@
 # JavaMVVM
 
-MVVM-Retrofit-RecyclerView-LiveData-Data Binding
+- MVVM
+- Retrofit
+- RecyclerView
+- LiveData
+- Data Binding
